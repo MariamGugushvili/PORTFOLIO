@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mariam Gugushvili
 
 🎓 MSc Applied Artificial Intelligence @ Cranfield University  
-💻 Data Engineer | System Integrator | AI Explorer  
+💻 Data Engineer | DBA | System Integrator | AI Developer
 🌍 Passionate about building scalable, sustainable data solutions  
 
 ---
@@ -20,7 +20,7 @@ Results-driven data engineer with 4+ years of experience designing robust data p
 **Warehousing:** Star/Snowflake Schema, Partitioning, Optimization  
 **Analytics:** Power BI, Tableau, SSAS, OLAP  
 **Cloud:** AWS, Microsoft Fabric, GCP, Azure Data Factory  
-**Tools:** Docker, Git, WildFly, JBoss, Tomcat  
+**Tools:** Git, WildFly, JBoss, Tomcat  
 **Testing:** Selenium, Postman, Jira  
 **OS:** Windows Server, Linux  
 
@@ -45,4 +45,4 @@ Each project folder contains:
 ---
 
 📄 [Download My CV](https://your-cv-link.com)  
-📬 [Email Me](mailto:immariam16@gmail.com) • 🌐 [LinkedIn](https://linkedin.com/in/your-link)
+📬 [Email Me](mailto:immariam16@gmail.com) • 🌐 [LinkedIn]((https://www.linkedin.com/in/mariam-gugushvili-0815b5291/))
