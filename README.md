@@ -41,6 +41,6 @@ Each project folder contains:
 | [Currency_Transformations](./Currency_Transformations) | Currency exchange integration in PBI Reports| Power Automate, REST APIs, Python, SQL Server|
 | [PowerBI](./PowerBI) | Financial and cash flow reporting using interactive Power BI dashboards | Power BI, DAX, Excel, SQL |
 | [Microsoft_Fabric](./Microsoft_Fabric) | Real-time data streaming and visualization using Microsoft Fabric | Microsoft Fabric Cloud Platform |
-| [Deep_Learning_Computer_Vision](./DL_Object_Detection) | Object detection and classification using CNN | Python, TensorFlow, OpenCV |
-| [Reinforcement_Learning](./DRL_Autonomous_Driving) | Autonomous Driving | Python, NumPy, Gym, Matplotlib |
+| [DL_Object_Detection](./DL_Object_Detection) | Object detection and classification using CNN | Python, TensorFlow, OpenCV |
+| [DRL_Autonomous_Driving](./DRL_Autonomous_Driving) | Autonomous Driving | Python, NumPy, Gym, Matplotlib |
 | `...more soon` | Future Coursework, IRP, Group AI Project | |
