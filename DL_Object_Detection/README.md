@@ -70,29 +70,43 @@ The goal was to compare performance, learning behavior, and generalization capac
 
 ## 🖼️ Screenshots or Mockups
 
-### 🔹 Accuracy Comparison
-![Accuracy Plot](./images/fc_vs_cnn_accuracy.png)
+### 🖼️ CIFAR-10 Dataset Samples  
+![Dataset Samples](./images/Dataset Samples.png)
 
-### 📊 Training vs Validation – CNN
-![Accuracy & Loss](./images/cnn_accuracy_loss_plot.png)
+> Visual preview of CIFAR-10 categories used for training and evaluation.
 
-### 🧩 Confusion Matrices
-- Fully Connected Model  
-  ![FC Confusion Matrix](./images/fc_confusion_matrix.png)
+### 🔹 FC vs CNN Accuracy Comparison  
+![Accuracy Comparison](./images/CNN FC Comparison.png)
 
-- CNN Model  
-  ![CNN Confusion Matrix](./images/cnn_confusion_matrix.png)
+> CNN model significantly outperformed the fully connected model in generalization and accuracy.
 
-- Fine-Tuned VGG16  
-  ![VGG16 Confusion Matrix](./images/vgg16_confusion_matrix.png)
+### 📉 CNN Training vs Validation Loss  
+![CNN Loss](./images/CNN Training_Validation Loss.png)
 
-### 📈 Evaluation Metrics (F1, AUC, Accuracy)
-![VGG16 Metrics Table](./images/vgg16_metrics_table.png)
-![VGG16 AUC](./images/vgg16_auc_curve.png)
+### 📉 FC Training vs Validation Loss  
+![FC Loss](./images/FC Training_Validation Loss.png)
 
-### 🧠 Feature Maps – Before vs After Fine-Tuning
-![VGG Filters Before](./images/vgg16_filters_before.png)
-![VGG Filters After](./images/vgg16_filters_after.png)
+> Clear indication of better convergence and reduced overfitting in the CNN vs. FC model.
+
+### 🧠 Confusion Matrix – Fully Connected Model  
+![FC Confusion Matrix](./images/FC Confusion Matrix.png)
+
+### 🧠 Confusion Matrix – CNN Model  
+![CNN Confusion Matrix](./images/CNN Confusion Matrix.png)
+
+> The CNN shows a tighter distribution of correct predictions compared to the FC baseline.
+
+### 📈 VGG16 Accuracy & Loss  
+![VGG16 Accuracy and Loss](./images/VGG16 Accuracy and Loss.png)
+
+> Fine-tuned VGG16 showed stable and consistent performance, with improved accuracy over epochs.
+
+### 🔍 VGG16 Model Comparison  
+![VGG16 Comparison](./images/VGG16 Comparison.png)
+
+> Detailed evaluation of VGG16 before and after fine-tuning, including classification metrics and confusion matrix.
+
+
 ---
 
 ## 🚀 Outcomes or Impact
