@@ -35,14 +35,12 @@ Each project folder contains:
 - Screenshots or mockups (if available)
 - Outcomes or impact
 
-| Project | Description |
-|--------|-------------|
-| [`NBKR`](./NBKR) | Built national-scale data pipelines and data warehouse for central bank |
-| [`MEPPERS`](./MEPPERS) | Developed Power BI reports and designed financial transformation flows |
-| [`CBK_CBN_CBL_NBG`](./CBK_CBN_CBL_NBG) | Maintained and deployed data systems for regulatory institutions |
-| `...more soon` | Future coursework, IRP, or group AI project |
-
----
-
-📄 [Download My CV]([https://your-cv-link.com](https://drive.google.com/file/d/1SW4sI6LFaEhleHs9XDbmMBNJNIFehxF4/view?usp=sharing))  
-📬 [Email Me](mailto:immariam16@gmail.com) • 🌐 [LinkedIn]([(https://www.linkedin.com/in/mariam-gugushvili-0815b5291/)](https://linkedin.com/in/your-link))
+| Project | Description | Technologies Used |
+|--------|-------------|-------------------|
+| [LakeToWarehouse_ETL](./LakeToWarehouse_ETL) | Pipeline from DL to DWH with SSAS models | SSIS, SQL Server, SSAS, Python|
+| [Currency_Transformations](./Currency_Transformations) | Currency exchange integration in PBI Reports| Power Automate, REST APIs, Python, SQL Server|
+| [PowerBI](./PowerBI) | Financial and cash flow reporting using interactive Power BI dashboards | Power BI, DAX, Excel, SQL |
+| [Microsoft_Fabric](./Microsoft_Fabric) | Real-time data streaming and visualization using Microsoft Fabric | Microsoft Fabric Cloud Platform |
+| [Deep_Learning_Computer_Vision](./Deep_Learning_Computer_Vision) | Object detection and classification using CNN | Python, TensorFlow, OpenCV |
+| [Reinforcement_Learning](./Reinforcement_Learning) | Autonomous Driving | Python, NumPy, Gym, Matplotlib |
+| `...more soon` | Future Coursework, IRP, Group AI Project | |
