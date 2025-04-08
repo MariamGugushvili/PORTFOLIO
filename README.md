@@ -45,4 +45,4 @@ Each project folder contains:
 ---
 
 📄 [Download My CV](https://your-cv-link.com)  
-📬 [Email Me](mailto:immariam16@gmail.com) • 🌐 [LinkedIn]((https://www.linkedin.com/in/mariam-gugushvili-0815b5291/))
+📬 [Email Me](mailto:immariam16@gmail.com) • 🌐 [LinkedIn]([(https://www.linkedin.com/in/mariam-gugushvili-0815b5291/)](https://linkedin.com/in/your-link))
