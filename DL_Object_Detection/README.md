@@ -1,4 +1,5 @@
-# 🧠 CIFAR-10 Image Classification – Fully Connected vs. CNN vs. Transfer Learning
+# 🧠 CIFAR-10 Image Classification
+# Fully Connected vs. CNN vs. Transfer Learning
 
 ## 📄 Project Overview
 
@@ -69,13 +70,29 @@ The goal was to compare performance, learning behavior, and generalization capac
 
 ## 🖼️ Screenshots or Mockups
 
-- Accuracy/loss plots (train vs val)
-- Confusion matrices for each version
-- Sample misclassified images
-- Feature maps from VGG16
+### 🔹 Accuracy Comparison
+![Accuracy Plot](./images/fc_vs_cnn_accuracy.png)
 
-> (Add visuals in `./images/` if available)
+### 📊 Training vs Validation – CNN
+![Accuracy & Loss](./images/cnn_accuracy_loss_plot.png)
 
+### 🧩 Confusion Matrices
+- Fully Connected Model  
+  ![FC Confusion Matrix](./images/fc_confusion_matrix.png)
+
+- CNN Model  
+  ![CNN Confusion Matrix](./images/cnn_confusion_matrix.png)
+
+- Fine-Tuned VGG16  
+  ![VGG16 Confusion Matrix](./images/vgg16_confusion_matrix.png)
+
+### 📈 Evaluation Metrics (F1, AUC, Accuracy)
+![VGG16 Metrics Table](./images/vgg16_metrics_table.png)
+![VGG16 AUC](./images/vgg16_auc_curve.png)
+
+### 🧠 Feature Maps – Before vs After Fine-Tuning
+![VGG Filters Before](./images/vgg16_filters_before.png)
+![VGG Filters After](./images/vgg16_filters_after.png)
 ---
 
 ## 🚀 Outcomes or Impact
