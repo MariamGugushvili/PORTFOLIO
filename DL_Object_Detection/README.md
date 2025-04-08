@@ -92,7 +92,7 @@ The goal was to compare performance, learning behavior, and generalization capac
 ![FC Confusion Matrix](./images/FC Confusion Matrix.png)
 
 ### 🧠 Confusion Matrix – CNN Model  
-![CNN Confusion Matrix](./images/CNN Confusion Matrix.png)
+![CNN Confusion Matrix](./images/CNN%20Confusion%20Matrix.png)
 
 > The CNN shows a tighter distribution of correct predictions compared to the FC baseline.
 
