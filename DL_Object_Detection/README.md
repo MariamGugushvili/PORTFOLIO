@@ -71,40 +71,45 @@ The goal was to compare performance, learning behavior, and generalization capac
 ## 🖼️ Screenshots or Mockups
 
 ### 🖼️ CIFAR-10 Dataset Samples  
-![Dataset Samples](./images/Dataset Samples.png)
-
+![Dataset Samples](./images/Dataset%20Samples.png)  
 > Visual preview of CIFAR-10 categories used for training and evaluation.
 
-### 🔹 FC vs CNN Accuracy Comparison  
-![Accuracy Comparison](./images/CNN FC Comparison.png)
+---
 
+### 🔹 FC vs CNN Accuracy Comparison  
+![Accuracy Comparison](./images/CNN%20FC%20Comparison.png)  
 > CNN model significantly outperformed the fully connected model in generalization and accuracy.
 
+---
+
 ### 📉 CNN Training vs Validation Loss  
-![CNN Loss](./images/CNN Training_Validation Loss.png)
+![CNN Loss](./images/CNN%20Training_Validation%20Loss.png)
 
 ### 📉 FC Training vs Validation Loss  
-![FC Loss](./images/FC Training_Validation Loss.png)
-
+![FC Loss](./images/FC%20Training_Validation%20Loss.png)  
 > Clear indication of better convergence and reduced overfitting in the CNN vs. FC model.
 
+---
+
 ### 🧠 Confusion Matrix – Fully Connected Model  
-![FC Confusion Matrix](./images/FC Confusion Matrix.png)
+![FC Confusion Matrix](./images/FC%20Confusion%20Matrix.png)
 
 ### 🧠 Confusion Matrix – CNN Model  
-![CNN Confusion Matrix](./images/CNN%20Confusion%20Matrix.png)
-
+![CNN Confusion Matrix](./images/CNN%20Confusion%20Matrix.png)  
 > The CNN shows a tighter distribution of correct predictions compared to the FC baseline.
 
-### 📈 VGG16 Accuracy & Loss  
-![VGG16 Accuracy and Loss](./images/VGG16 Accuracy and Loss.png)
+---
 
+### 📈 VGG16 Accuracy & Loss  
+![VGG16 Accuracy and Loss](./images/VGG16%20Accuracy%20and%20Loss.png)  
 > Fine-tuned VGG16 showed stable and consistent performance, with improved accuracy over epochs.
 
-### 🔍 VGG16 Model Comparison  
-![VGG16 Comparison](./images/VGG16 Comparison.png)
+---
 
+### 🔍 VGG16 Model Comparison  
+![VGG16 Comparison](./images/VGG16%20Comparison.png)  
 > Detailed evaluation of VGG16 before and after fine-tuning, including classification metrics and confusion matrix.
+
 
 
 ---
