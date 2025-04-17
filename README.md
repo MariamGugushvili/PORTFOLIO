@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Mariam Gugushvili
 
 🎓 MSc Applied Artificial Intelligence @ Cranfield University  
-💻 Data Engineer | DBA | System Integrator | AI Developer
-🌍 Passionate about building scalable, sustainable data solutions  
+💻 Data Engineer | DBA | System Integrator | AI Developer  
 
 ---
 
