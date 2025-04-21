@@ -36,8 +36,8 @@ Each project folder contains:
 
 | Project | Description | Technologies Used |
 |--------|-------------|-------------------|
-| [Power BI & Transformations](./Power%20%BI%20%&%20%Transformations) | Financial and cash flow reporting using interactive Power BI dashboards | Power BI, DAX, Excel, SQL, Azure Data Factory |
-| [Object Detection](./Object%20%Detection) | Object detection and classification using CNN | Python, TensorFlow, OpenCV |
-| [Autonomous Driving](./Autonomous%20%Driving) | Autonomous Driving using PPO| Python, NumPy, Gym, Matplotlib |
-| [Image Classification](./Image%20%Classification) | Image Classification Comparison | Python, Torch, Matplotlib |
+| [🔄 Power BI & Transformations](./Power%20BI%20%26%20Transformations/) | Financial and cash flow reporting using interactive Power BI dashboards | Power BI, DAX, Excel, SQL, Azure Data Factory |
+| [🎯 Object Detection](./Object%20Detection/) | Object detection and classification using CNN | Python, TensorFlow, OpenCV |
+| [🚗 Autonomous Driving](./Autonomous%20Driving/) | Autonomous Driving using PPO| Python, NumPy, Gym, Matplotlib |
+| [🧠 Image Classification](./Image%20Classification/) | Image Classification Comparison | Python, Torch, Matplotlib |
 | `...more soon` | Future Coursework, IRP, Group AI Project | |
