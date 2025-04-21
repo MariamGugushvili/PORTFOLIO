@@ -36,10 +36,8 @@ Each project folder contains:
 
 | Project | Description | Technologies Used |
 |--------|-------------|-------------------|
-| [LakeToWarehouse_ETL](./LakeToWarehouse_ETL) | Pipeline from DL to DWH with SSAS models | SSIS, SQL Server, SSAS, Python|
-| [Currency_Transformations](./Currency_Transformations) | Currency exchange integration in PBI Reports| Power Automate, REST APIs, Python, SQL Server|
-| [PowerBI](./PowerBI) | Financial and cash flow reporting using interactive Power BI dashboards | Power BI, DAX, Excel, SQL |
-| [Microsoft_Fabric](./Microsoft_Fabric) | Real-time data streaming and visualization using Microsoft Fabric | Microsoft Fabric Cloud Platform |
-| [DL_Object_Detection](./DL_Object_Detection) | Object detection and classification using CNN | Python, TensorFlow, OpenCV |
-| [DRL_Autonomous_Driving](./DRL_Autonomous_Driving) | Autonomous Driving | Python, NumPy, Gym, Matplotlib |
+| [Power BI & Transformations](./Power%20%BI%20%&%20%Transformations) | Financial and cash flow reporting using interactive Power BI dashboards | Power BI, DAX, Excel, SQL, Azure Data Factory |
+| [Object Detection](./Object%20%Detection) | Object detection and classification using CNN | Python, TensorFlow, OpenCV |
+| [Autonomous Driving](./Autonomous%20%Driving) | Autonomous Driving using PPO| Python, NumPy, Gym, Matplotlib |
+| [Image Classification](./Image%20%Classification) | Image Classification Comparison | Python, Torch, Matplotlib |
 | `...more soon` | Future Coursework, IRP, Group AI Project | |
