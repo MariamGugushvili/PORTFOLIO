@@ -1,5 +1,4 @@
-# 🧠 CIFAR-10 Image Classification
-# Fully Connected vs. CNN vs. Transfer Learning
+# 🧠 CIFAR-10 Dataset Image Classification
 
 ## 📄 Project Overview
 
@@ -17,11 +16,10 @@ The goal was to compare performance, learning behavior, and generalization capac
 ### 🟨 Dataset: CIFAR-10
 - 60,000 color images (32x32), 10 classes (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck)
 - Train/test split: 50,000/10,000
-- Data preprocessing: normalization, one-hot encoding
 
 ---
 
-### 🔹 Version 1: Fully Connected Network (Baseline)
+### 🔹 Version 1: Fully Connected Network
 - Flattened image input
 - Two hidden layers: 64 and 32 neurons (ReLU)
 - Softmax output layer (10 classes)
