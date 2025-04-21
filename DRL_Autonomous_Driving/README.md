@@ -1,15 +1,5 @@
 # 🧠 Deep Reinforcement Learning – Autonomous Driving with PPO
 
-## 🚀 Outcomes
-
-- ✅ Trained an agent using PPO to drive autonomously in the `CarRacing-v3` environment  
-- ✅ Achieved **average reward ~750+** after tuning entropy, learning rate, and episode steps  
-- ✅ Successfully shaped reward to discourage zig-zag movement and off-road driving  
-- ✅ Implemented custom CNN-based policy/value networks  
-- ✅ Used evaluation callbacks and TensorBoard for monitoring model performance  
-
----
-
 ## 📄 Project Overview
 
 This project applies **Deep Reinforcement Learning (DRL)** to teach an agent how to drive a car around a racetrack autonomously using Proximal Policy Optimization (PPO). The agent learns from raw visual input (grayscale frames) and receives rewards based on driving efficiency.
@@ -70,4 +60,14 @@ This project applies **Deep Reinforcement Learning (DRL)** to teach an agent how
 - Reward shaping was key to training stability  
 - Domain randomization improved robustness across different track layouts  
 - Ablation testing showed smaller batch sizes led to better exploration early on
+
+---
+
+## 🚀 Outcomes
+
+- ✅ Trained an agent using PPO to drive autonomously in the `CarRacing-v3` environment  
+- ✅ Achieved **average reward ~750+** after tuning entropy, learning rate, and episode steps  
+- ✅ Successfully shaped reward to discourage zig-zag movement and off-road driving  
+- ✅ Implemented custom CNN-based policy/value networks  
+- ✅ Used evaluation callbacks and TensorBoard for monitoring model performance  
 
