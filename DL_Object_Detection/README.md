@@ -1,15 +1,5 @@
 # 🛰️ UAV Object Detection – YOLOv11 vs. Faster R-CNN
 
-## 🚀 Outcomes
-
-- ✅ **YOLOv11** achieved **mAP50: 0.93** with very fast inference speed  
-- ✅ **Faster R-CNN** achieved **mAP50: 0.95**, suitable for high-accuracy tasks  
-- ✅ Trained, evaluated, and compared models on custom drone dataset  
-- ✅ Applied modern techniques for annotation, augmentation, and performance analysis  
-- ✅ Gained real-world experience with aerial vision data and object detection pipelines
-
----
-
 ## 📄 Project Overview
 
 This project compares two deep learning models for object detection on a UAV (drone) image dataset. The goal is to evaluate the trade-off between **real-time speed** and **detection accuracy** using YOLOv11 and Faster R-CNN.
@@ -76,11 +66,18 @@ This project compares two deep learning models for object detection on a UAV (dr
 
 ---
 
+## 🚀 Outcomes
+
+- ✅ **YOLOv11** achieved **mAP50: 0.93** with very fast inference speed  
+- ✅ **Faster R-CNN** achieved **mAP50: 0.95**, suitable for high-accuracy tasks  
+- ✅ Trained, evaluated, and compared models on custom drone dataset  
+- ✅ Applied modern techniques for annotation, augmentation, and performance analysis  
+- ✅ Gained real-world experience with aerial vision data and object detection pipelines
+
+---
+
 ## 🔍 Additional Notes
 
 - mAP values were calculated using COCO evaluation logic  
 - YOLO performed better in real-time inference  
 - Faster R-CNN was more stable in small-object detection
-
----
-
